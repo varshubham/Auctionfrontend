@@ -1,0 +1,73 @@
+.Sell
+{
+  text-align: center;
+  margin-top: 50px;
+}
+.Sell .button{
+  background-color: #4CAF50; /* Green */
+
+  border-radius: 15px;
+
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.cardbody{
+  width: 80%;
+  display: flex;
+  
+  margin: auto;
+  margin-top: 50px;
+}
+
+.hero {
+  background-image: url('https://factor-a.com/wp-content/uploads/2022/04/Bid-shutterstock_703240345-02-e1564149375397.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #1234bc;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+button {
+  display: inline-block;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4CAF50;
+  color: #fff;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.featured-items {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.featured-items .heading{
+  width: 100%;
+  text-align: center;
+}
+
+.item {
+  flex: 1;
+}
+.card-body{
+  margin: 50px;
+  display: flex;
+}

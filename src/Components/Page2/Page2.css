@@ -1,0 +1,639 @@
+.p2root {
+    position: relative;
+    width: 721px;
+    height: 427px;
+    align-items: flex-start;
+  }
+ .p2root .rectangle1 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 721px;
+    height: 427px;
+    background-color: #fff;
+  }
+ .p2root .unsplash27HiryxnHJk {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 721px;
+    height: 427px;
+    background-image:/* webpackIgnore: true */ url('/assets/unsplash27HiryxnHJk.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+ .p2root .rectangle2 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 721px;
+    height: 58px;
+    background-color: #fff;
+  }
+ .p2root .testAccount {
+    position: absolute;
+    left: 662px;
+    top: 14px;
+    width: 32px;
+    height: 31px;
+    background-image:/* webpackIgnore: true */ url('/assets/testAccount.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+ .p2root .attachment_1179782161 {
+    position: absolute;
+    left: 243px;
+    top: 9px;
+    width: 234px;
+    height: 36px;
+    background-image:/* webpackIgnore: true */ url('/assets/attachment_1179782161.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+ .p2root .rectangle3 {
+    position: absolute;
+    left: 61px;
+    top: 84px;
+    width: 601px;
+    height: 315px;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 0px 4px 3px 0px #00000040;
+  }
+ .p2root .registrationForm {
+    color: #000;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 263px;
+    top: 98px;
+    width: 208px;
+    height: 26px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .firstNameAsPerAadharRecords {
+    position: absolute;
+    left: 83px;
+    top: 135px;
+    width: 180px;
+    height: 13px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .labelWrapper {
+    font-size: 9px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    flex-shrink: 1;
+  }
+ .p2root .label {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+ .p2root .label2 {
+    color: #000;
+    font-size: 9px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+ .p2root .aadharNumber {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 84px;
+    top: 190px;
+    width: 92px;
+    height: 13px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .pANNumber {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 76px;
+    top: 255px;
+    width: 92px;
+    height: 13px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .nomineeDetails {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 85px;
+    top: 302px;
+    width: 92px;
+    height: 13px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .correspondenceAddress {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 275px;
+    top: 252px;
+    width: 153px;
+    height: 13px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .mobileNumber {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 283px;
+    top: 190px;
+    width: 86px;
+    height: 13px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .alternateMobileNumber {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 475px;
+    top: 190px;
+    width: 134px;
+    height: 13px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .age {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 475px;
+    top: 135px;
+    width: 72px;
+    height: 13px;
+    flex-direction: column;
+  }
+ .p2root .gender {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 547px;
+    top: 134px;
+    width: 72px;
+    height: 13px;
+    flex-direction: column;
+  }
+ .p2root .lastNameAsPerAadharRecords {
+    position: absolute;
+    left: 274px;
+    top: 135px;
+    width: 178px;
+    height: 13px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .labelWrapper2 {
+    font-size: 9px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    flex-shrink: 1;
+  }
+ .p2root .label3 {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+ .p2root .label4 {
+    color: #000;
+    font-size: 9px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+ .p2root .rectangle4 {
+    position: absolute;
+    left: 92px;
+    top: 156px;
+    width: 161px;
+    height: 15px;
+    background-color: #ededed73;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .rectangle8 {
+    position: absolute;
+    left: 93px;
+    top: 214px;
+    width: 161px;
+    height: 15px;
+    background-color: #ededed73;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .rectangle11 {
+    position: absolute;
+    left: 92px;
+    top: 273px;
+    width: 161px;
+    height: 15px;
+    background-color: #ededed73;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .rectangle19 {
+    position: absolute;
+    left: 92px;
+    top: 321px;
+    width: 161px;
+    height: 15px;
+    background-color: #ededed73;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .rectangle13 {
+    position: absolute;
+    left: 289px;
+    top: 284px;
+    width: 161px;
+    height: 15px;
+    outline: solid 1px #000;
+    outline-offset: -1px;
+    background-color: #ededed99;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .rectangle14 {
+    position: absolute;
+    left: 289px;
+    top: 304px;
+    width: 161px;
+    height: 15px;
+    outline: solid 1px #000;
+    outline-offset: -1px;
+    background-color: #ededed99;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .rectangle15 {
+    position: absolute;
+    left: 289px;
+    top: 324px;
+    width: 161px;
+    height: 15px;
+    outline: solid 1px #000;
+    outline-offset: -1px;
+    background-color: #ededed99;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .rectangle16 {
+    position: absolute;
+    left: 468px;
+    top: 284px;
+    width: 161px;
+    height: 15px;
+    outline: solid 1px #000;
+    outline-offset: -1px;
+    background-color: #ededed99;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .rectangle17 {
+    position: absolute;
+    left: 468px;
+    top: 304px;
+    width: 161px;
+    height: 15px;
+    outline: solid 1px #000;
+    outline-offset: -1px;
+    background-color: #ededed99;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .rectangle18 {
+    position: absolute;
+    left: 468px;
+    top: 324px;
+    width: 161px;
+    height: 15px;
+    outline: solid 1px #000;
+    outline-offset: -1px;
+    background-color: #ededed99;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .addressBoxMain {
+    position: absolute;
+    left: 283px;
+    top: 273px;
+    width: 355px;
+    height: 74px;
+    background-color: #ededed73;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .rectangle9 {
+    position: absolute;
+    left: 286px;
+    top: 214px;
+    width: 161px;
+    height: 15px;
+    background-color: #ededed73;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .rectangle10 {
+    position: absolute;
+    left: 477px;
+    top: 214px;
+    width: 161px;
+    height: 15px;
+    background-color: #ededed73;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .rectangle6 {
+    position: absolute;
+    left: 475px;
+    top: 156px;
+    width: 20px;
+    height: 15px;
+    background-color: #ededed73;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .rectangle7 {
+    position: absolute;
+    left: 547px;
+    top: 158px;
+    width: 20px;
+    height: 15px;
+    background-color: #ededed73;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .rectangle5 {
+    position: absolute;
+    left: 284px;
+    top: 156px;
+    width: 160px;
+    height: 15px;
+    background-color: #ededed73;
+    box-shadow: 0px 4px 4px 0px #00000040;
+  }
+ .p2root .dropDown {
+    position: absolute;
+    left: 495px;
+    top: 153px;
+    width: 20px;
+    height: 24px;
+    background-image:/* webpackIgnore: true */ url('/assets/dropDown.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+ .p2root .dropDown2 {
+    position: absolute;
+    left: 569px;
+    top: 153px;
+    width: 20px;
+    height: 24px;
+    background-image:/* webpackIgnore: true */ url('/assets/dropDown2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+ .p2root .addressLine1 {
+    color: #515151;
+    font-size: 8px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 289px;
+    top: 288px;
+    width: 66px;
+    height: 9px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .participateAnonymously {
+    color: #515151;
+    font-size: 8px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 428px;
+    top: 254px;
+    width: 102px;
+    height: 9px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .doYouAgreeToOurTermsAndConditi {
+    color: #515151;
+    font-size: 8px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 109px;
+    top: 361px;
+    width: 167px;
+    height: 9px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .addressLine2Optional {
+    color: #515151;
+    font-size: 8px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 289px;
+    top: 306px;
+    width: 106px;
+    height: 9px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .addressLine3Optional {
+    color: #515151;
+    font-size: 8px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 289px;
+    top: 326px;
+    width: 106px;
+    height: 9px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .state {
+    color: #515151;
+    font-size: 8px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 471px;
+    top: 288px;
+    width: 106px;
+    height: 9px;
+    flex-direction: column;
+  }
+ .p2root .city {
+    color: #515151;
+    font-size: 8px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 471px;
+    top: 305px;
+    width: 106px;
+    height: 9px;
+    flex-direction: column;
+  }
+ .p2root .pincode {
+    color: #515151;
+    font-size: 8px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 471px;
+    top: 327px;
+    width: 106px;
+    height: 9px;
+    flex-direction: column;
+  }
+ .p2root .checkedCheckbox {
+    position: absolute;
+    left: 415px;
+    top: 251px;
+    width: 13px;
+    height: 16px;
+    background-image:/* webpackIgnore: true */ url('/assets/checkedCheckbox.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+ .p2root .checkedCheckbox2 {
+    position: absolute;
+    left: 92px;
+    top: 358px;
+    width: 13px;
+    height: 16px;
+    background-image:/* webpackIgnore: true */ url('/assets/checkedCheckbox2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+ .p2root .rectangle20 {
+    position: absolute;
+    left: 453px;
+    top: 370px;
+    width: 77px;
+    height: 19px;
+    border-radius: 3px;
+    background-color: #da0707;
+  }
+ .p2root .rectangle21 {
+    position: absolute;
+    left: 558px;
+    top: 370px;
+    width: 77px;
+    height: 19px;
+    border-radius: 3px;
+    background-color: #0c1fc9;
+  }
+ .p2root .saveAsDraft {
+    color: #fff;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 450px;
+    top: 374px;
+    width: 87px;
+    height: 9px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .submit {
+    color: #fff;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 553px;
+    top: 373px;
+    width: 87px;
+    height: 9px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+ .p2root .rectangle22 {
+    position: absolute;
+    left: 13px;
+    top: 14px;
+    width: 33px;
+    height: 31px;
+    border-radius: 3px;
+    background-color: #ebebeb99;
+  }
+ .p2root .menu {
+    position: absolute;
+    left: 16px;
+    top: 17px;
+    width: 26px;
+    height: 25px;
+    background-image:/* webpackIgnore: true */ url('/assets/menu.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+  
